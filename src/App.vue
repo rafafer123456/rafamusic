@@ -1,6 +1,6 @@
 <template lang="pug">
 #app
-  
+  img(src='https://raw.githubusercontent.com/rafafer123456/rafamusic/master/src/assets/logo.png')
   h1 RafaMusic
   select(v-model="selectedCountry")
     option(v-for="country in countries" v-bind:value="country.value") {{country.name}}
