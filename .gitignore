@@ -1,6 +1,6 @@
 .DS_Store
 node_modules/
-
+comandos_install_pug_stylus.txt
 npm-debug.log
 yarn-error.log
 
